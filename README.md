@@ -23,7 +23,7 @@ code blocks for commands
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+You must have a laptop and strong internet.
 ```
 
 ## Authors
