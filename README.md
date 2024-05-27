@@ -13,10 +13,7 @@ Blockchain Platform: Install the blockchain platform you plan to use for deployi
 
 
 ```
-import React, { useState, useEffect } from "react";
-import { ethers } from "ethers";
-import atm_abi from "../artifacts/contracts/Assessment.sol/Assessment.json";
-code blocks for commands
+
 ```
 
 ## Help
